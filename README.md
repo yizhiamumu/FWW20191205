@@ -6,7 +6,7 @@
 
 # Usage
 ## 1.Copy My Code
-`$ git clone https://github.com/codingXiaxw/HappyBirthday.git`
+`$ git clone https://github.com/yizhiamumu/FWW20191205.git`
 
 ## 2.Update The Code
 
